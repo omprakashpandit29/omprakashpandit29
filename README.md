@@ -124,3 +124,13 @@
 <a href="http://www.youtube.com/@omprakashpandit29" target="_blank">[youtube]</a>
 <a href="https://www.instagram.com/om_prakash_pandit/" target="_blank">[instagram]</a>
 <a href="https://www.linkedin.com/in/omprakashpandit29/" target="_blank">[linkedin]</a>
+
+
+[website]: http://omprakashpandit.me/portfolio/
+[twitter]: https://x.com/ompandit_29
+[youtube]: http://www.youtube.com/@omprakashpandit29
+[instagram]: https://www.instagram.com/om_prakash_pandit/
+[linkedin]: https://www.linkedin.com/in/omprakashpandit29/
+[Facebook]: https://www.facebook.com/omprakashpandit29/
+[GitHub]: https://github.com/omprakashpandit29
+[Discord]: https://discord.com/channels/@om_prakash_pandit
