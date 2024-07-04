@@ -1,6 +1,3 @@
-Sure, I've removed the sections for the "Codestackr VS Code Theme" and "Become a VS Code SuperHero". Here's the updated code:
-
-```markdown
 # Hi there, I'm Om Prakash 👋
 
 <a href="http://www.youtube.com/@omprakashpandit29" target="_blank">
@@ -123,4 +120,7 @@ Sure, I've removed the sections for the "Codestackr VS Code Theme" and "Become a
 </details>
 
 <a href="http://omprakashpandit.me/portfolio/" target="_blank">[website]</a>
-<a href="https
+<a href="https://x.com/ompandit_29" target="_blank">[twitter]</a>
+<a href="http://www.youtube.com/@omprakashpandit29" target="_blank">[youtube]</a>
+<a href="https://www.instagram.com/om_prakash_pandit/" target="_blank">[instagram]</a>
+<a href="https://www.linkedin.com/in/omprakashpandit29/" target="_blank">[linkedin]</a>
