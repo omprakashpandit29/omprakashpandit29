@@ -1,129 +1,28 @@
-# Hi there, I'm Om Prakash 👋
-
-<a href="http://www.youtube.com/@omprakashpandit29" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge" alt="YouTube Channel Subscribers" />
-</a>
-<a href="http://omprakashpandit.me/portfolio/" target="_blank">
-    <img src="https://img.shields.io/website?label=omprakashpandit.me&style=for-the-badge&url=http%3A%2F%2Fomprakashpandit.me%2Fportfolio%2F" alt="Website" />
-</a>
-<a href="https://x.com/ompandit_29" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ompandit_29?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-</a>
-
-## I'm a Magento 2 Specialist, Web Developer, Blockchain Enthusiast, and Tech Innovator!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar
-
-### Connect with me:
-
-<a href="http://omprakashpandit.me/portfolio/#gh-light-mode-only" target="_blank">
-    <img src="./img/globe-light.svg" alt="Website Light Mode" />
-</a>
-<a href="http://omprakashpandit.me/portfolio/#gh-dark-mode-only" target="_blank">
-    <img src="./img/globe-dark.svg" alt="Website Dark Mode" />
-</a>
-&nbsp;&nbsp;
-<a href="http://www.youtube.com/@omprakashpandit29#gh-light-mode-only" target="_blank">
-    <img src="./img/youtube-light.svg" alt="YouTube Light Mode" />
-</a>
-<a href="http://www.youtube.com/@omprakashpandit29#gh-dark-mode-only" target="_blank">
-    <img src="./img/youtube-dark.svg" alt="YouTube Dark Mode" />
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/ompandit_29#gh-light-mode-only" target="_blank">
-    <img src="./img/twitter-light.svg" alt="Twitter Light Mode" />
-</a>
-<a href="https://x.com/ompandit_29#gh-dark-mode-only" target="_blank">
-    <img src="./img/twitter-dark.svg" alt="Twitter Dark Mode" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/omprakashpandit29/#gh-light-mode-only" target="_blank">
-    <img src="./img/linkedin-light.svg" alt="LinkedIn Light Mode" />
-</a>
-<a href="https://www.linkedin.com/in/omprakashpandit29/#gh-dark-mode-only" target="_blank">
-    <img src="./img/linkedin-dark.svg" alt="LinkedIn Dark Mode" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/om_prakash_pandit/#gh-light-mode-only" target="_blank">
-    <img src="./img/instagram-light.svg" alt="Instagram Light Mode" />
-</a>
-<a href="https://www.instagram.com/om_prakash_pandit/#gh-dark-mode-only" target="_blank">
-    <img src="./img/instagram-dark.svg" alt="Instagram Dark Mode" />
-</a>
-
-### Languages and Tools:
-
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://sass-lang.com/" target="_blank">
-    <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://react.dev/" target="_blank">
-    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://www.gatsbyjs.com/" target="_blank">
-    <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://graphql.org/" target="_blank">
-    <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
-    <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://deno.land/" target="_blank">
-    <img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-    <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-    <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-    <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://github.com/" target="_blank">
-    <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-</a>
-<a href="https://github.com/" target="_blank">
-    <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-
-<br />
-<br />
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Om Prakash GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=omprakashpandit29&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-<a href="http://omprakashpandit.me/portfolio/" target="_blank">[website]</a>
-<a href="https://x.com/ompandit_29" target="_blank">[twitter]</a>
-<a href="http://www.youtube.com/@omprakashpandit29" target="_blank">[youtube]</a>
-<a href="https://www.instagram.com/om_prakash_pandit/" target="_blank">[instagram]</a>
-<a href="https://www.linkedin.com/in/omprakashpandit29/" target="_blank">[linkedin]</a>
+# 💫 About Me:
+Nearly 2 years building high-performance eCommerce platforms in Magento 2 | Frontend development | Module Development | PHP<br><br>🔭 I’m currently working on: Developing custom modules to master Magento's core logic.<br>🌱 I’m currently learning: Advanced Magento 2 theme customization and PHP design patterns.<br>💬 Ask me about: E-commerce development, Ubuntu on WSL, or setting up Nginx for Magento.<br>⚡ Fun fact: I can debug a complex layout XML file and still have enough patience to enjoy the process!
 
 
-[website]: http://omprakashpandit.me/portfolio/
-[twitter]: https://x.com/ompandit_29
-[youtube]: http://www.youtube.com/@omprakashpandit29
-[instagram]: https://www.instagram.com/om_prakash_pandit/
-[linkedin]: https://www.linkedin.com/in/omprakashpandit29/
-[Facebook]: https://www.facebook.com/omprakashpandit29/
-[GitHub]: https://github.com/omprakashpandit29
-[Discord]: https://discord.com/channels/@om_prakash_pandit
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@omprakashpandit29) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@om_prakash_pandit) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omprakashpandit29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om_prakash_pandit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omprakashpandit29) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@omprakashpandit) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/om516835) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Om-Prakash-906) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Om516835) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/om-prakash) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ompandit_29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:om516835@gmail.com) 
+
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omprakashpandit29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=omprakashpandit29&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omprakashpandit29&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omprakashpandit29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omprakashpandit29&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/omprakashpandit) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
